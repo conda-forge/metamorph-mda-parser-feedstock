@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.5"
+  version: "0.2.0"
 
 package:
   name: metamorph-mda-parser
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/metamorph-mda-parser/metamorph_mda_parser-${{ version }}.tar.gz
-  sha256: 3acb3874ef84c70c000805a74e613350726dcea591dc92838b0a4daea6ba43a9
+  sha256: b2899ddc70a71457fee6f9361a062fef91acfc6ccae5e60e5291c16bed358dee
 
 build:
   number: 0
